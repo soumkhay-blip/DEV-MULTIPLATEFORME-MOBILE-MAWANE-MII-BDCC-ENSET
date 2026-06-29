@@ -7,7 +7,7 @@ Pr. **MAWANE**, Master MII-BDCC, ENSET — Université Hassan II Casablanca.
 
 | Séance | Technologie | Description |
 |--------|-------------|-------------|
-| Séance 1 - Flutter - Messagerie (Contacts & Messages) | Flutter / Dart | Messagerie (contacts + messages) avec backend json-server et authentification basique. |
-| Séance 2 - Android Natif - Calcul IMC | Android natif / Java | Calcul de l'Indice de Masse Corporelle (IMC) avec catégorie et image. |
+| Séance 1 | Android natif / Java | Calcul de l'Indice de Masse Corporelle (IMC) avec catégorie et image. |
+| Seance 5 - Flutter P3 Management des states | Flutter / Dart | Messagerie (contacts + messages) avec gestion d'état, backend json-server et authentification. |
 
 Chaque dossier contient son propre `README.md` détaillé.
