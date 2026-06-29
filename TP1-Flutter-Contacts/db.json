@@ -1,0 +1,80 @@
+{
+  "users": [
+    { "id": 1, "username": "admin", "password": "admin" },
+    { "id": 2, "username": "soumia", "password": "1234" }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Mohamed",
+      "profile": "https://avatars.githubusercontent.com/u/7803765?s=100",
+      "type": "Professor",
+      "score": 670
+    },
+    {
+      "id": 2,
+      "name": "Youssef",
+      "profile": "https://avatars.githubusercontent.com/u/43423207?s=100",
+      "type": "Developer",
+      "score": 750
+    },
+    {
+      "id": 3,
+      "name": "Salma",
+      "profile": "https://i.pravatar.cc/150?img=5",
+      "type": "Student",
+      "score": 540
+    },
+    {
+      "id": 4,
+      "name": "Karim",
+      "profile": "https://i.pravatar.cc/150?img=12",
+      "type": "Student",
+      "score": 610
+    },
+    {
+      "id": 5,
+      "name": "Imane",
+      "profile": "https://i.pravatar.cc/150?img=32",
+      "type": "Developer",
+      "score": 820
+    },
+    {
+      "id": 6,
+      "name": "Pr. Naji",
+      "profile": "https://i.pravatar.cc/150?img=15",
+      "type": "Professor",
+      "score": 900
+    }
+  ],
+  "messages": [
+    {
+      "id": 36,
+      "contactID": 2,
+      "message": "Slt",
+      "type": "sent",
+      "date": "2021-02-23 12:52:13.127223"
+    },
+    {
+      "id": 37,
+      "contactID": 2,
+      "message": "OK",
+      "type": "received",
+      "date": "2021-02-23 12:52:13.155122"
+    },
+    {
+      "id": 38,
+      "contactID": 1,
+      "message": "Bonjour Professeur",
+      "type": "sent",
+      "date": "2021-03-01 09:10:00.000000"
+    },
+    {
+      "id": 39,
+      "contactID": 1,
+      "message": "Bonjour, comment puis-je vous aider ?",
+      "type": "received",
+      "date": "2021-03-01 09:11:30.000000"
+    }
+  ]
+}

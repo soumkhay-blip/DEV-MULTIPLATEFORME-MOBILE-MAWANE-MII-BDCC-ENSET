@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMC App</string>
+
+    <string name="hint_poids">Poids (en kg)</string>
+    <string name="hint_taille">Taille (en m)</string>
+    <string name="btn_calculer">Calculer</string>
+
+    <string name="label_imc_vide">IMC : -</string>
+    <string name="label_imc">IMC : %1$s</string>
+    <string name="cat_vide">Saisissez votre poids et votre taille</string>
+    <string name="label_histo">Historique</string>
+    <string name="histo_ligne">%1$s kg / %2$s m =&gt; IMC %3$s</string>
+
+    <string name="cat_maigreur">Insuffisance pondérale (maigreur)</string>
+    <string name="cat_normal">Corpulence normale</string>
+    <string name="cat_surpoids">Surpoids</string>
+    <string name="cat_obesite1">Obésité modérée (Classe I)</string>
+    <string name="cat_obesite2">Obésité sévère (Classe II)</string>
+    <string name="cat_obesite3">Obésité morbide (Classe III)</string>
+
+    <string name="msg_champs">Veuillez remplir les deux champs.</string>
+    <string name="msg_invalide">Valeurs saisies invalides.</string>
+    <string name="msg_positif">Le poids et la taille doivent être positifs.</string>
+</resources>
