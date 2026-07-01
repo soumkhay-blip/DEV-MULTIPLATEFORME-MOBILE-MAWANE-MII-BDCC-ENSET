@@ -76,7 +76,8 @@ class WeatherActivity : AppCompatActivity() {
                     tempMin = main.getDouble("temp_min"),
                     pression = main.getInt("pressure"),
                     humidite = main.getInt("humidity"),
-                    description = meteo.getString("description")
+                    description = meteo.getString("description"),
+                    principal = meteo.getString("main")
                 )
             )
         }

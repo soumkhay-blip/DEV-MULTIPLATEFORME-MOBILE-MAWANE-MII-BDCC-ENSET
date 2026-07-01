@@ -38,4 +38,5 @@
     <string name="erreur_reseau">Erreur réseau. Vérifiez votre connexion.</string>
     <string name="temp_min_max">Temp : %1$.1f°C min / %2$.1f°C max</string>
     <string name="pression_humidite">Pression : %1$d hPa · Humidité : %2$d%%</string>
+    <string name="icone_meteo">Icône météo</string>
 </resources>

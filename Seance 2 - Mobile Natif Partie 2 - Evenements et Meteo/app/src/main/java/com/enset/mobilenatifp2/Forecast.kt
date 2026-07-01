@@ -6,5 +6,6 @@ data class Forecast(
     val tempMin: Double,
     val pression: Int,
     val humidite: Int,
-    val description: String
+    val description: String,
+    val principal: String
 )
