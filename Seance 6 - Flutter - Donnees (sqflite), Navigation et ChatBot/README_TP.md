@@ -13,6 +13,13 @@ Un écran d'accueil donne accès aux trois travaux du PDF.
 | **Activité 2 — Navigation** | `lib/screens/navigation_demo.dart` | Deux écrans `FirstRoute` / `SecondRoute` avec `Navigator.push()` et `Navigator.pop()`. |
 | **Projet — ChatBot ChatGPT** | `lib/services/chat_service.dart`, `lib/screens/chat_screen.dart` | Conversation avec l'API OpenAI (ChatGPT). |
 
+## Améliorations apportées (valorisées par l'évaluation)
+
+- **Authentification** : écran de connexion (`login_screen.dart`) avant l'accès à l'app (compte de test : `admin` / `admin`) + déconnexion.
+- **Design** : bascule **thème clair / sombre** (Material 3) via l'icône dans l'AppBar.
+- **Navigation** : transitions **animées** entre écrans (fondu + glissement, `PageRouteBuilder`).
+- **Animation** : apparition animée du formulaire de connexion et des cartes d'accueil.
+
 ## Configuration du ChatBot
 
 Le ChatBot nécessite une **clé API OpenAI**. Ouvrir `lib/services/chat_service.dart`
