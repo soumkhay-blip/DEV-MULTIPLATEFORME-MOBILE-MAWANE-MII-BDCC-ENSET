@@ -12,6 +12,25 @@
     <string name="resultat_vide">Résultat des événements…</string>
     <string name="aller_meteo">Activité 2 : Météo</string>
 
+    <string name="spinner_label">Choisir un langage (OnItemSelected) :</string>
+    <string name="selection">Sélection : %1$s</string>
+    <string name="context_hint">Appui long ici (menu contextuel)</string>
+    <string name="menu_titre">Menu contextuel</string>
+    <string name="menu_copier">Copier</string>
+    <string name="menu_partager">Partager</string>
+    <string name="menu_choisi">Menu : %1$s</string>
+    <string name="date_button">Choisir une date (OnDateSet)</string>
+    <string name="date_choisie">Date choisie : %1$02d/%2$02d/%3$d</string>
+    <string name="swipe_gauche">Swipe gauche → Météo</string>
+    <string name="swipe_droite">Swipe droite</string>
+
+    <string-array name="langages">
+        <item>Kotlin</item>
+        <item>Java</item>
+        <item>Dart</item>
+        <item>Python</item>
+    </string-array>
+
     <string name="hint_ville">Nom de la ville</string>
     <string name="rechercher">Rechercher</string>
     <string name="ville_vide">Veuillez saisir une ville.</string>

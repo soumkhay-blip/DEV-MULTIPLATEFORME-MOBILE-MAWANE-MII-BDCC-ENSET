@@ -55,6 +55,34 @@
         android:padding="12dp"
         android:layout_marginTop="16dp" />
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/spinner_label"
+        android:layout_marginTop="12dp" />
+
+    <Spinner
+        android:id="@+id/spinnerLangage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textContextMenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/context_hint"
+        android:textAlignment="center"
+        android:padding="12dp"
+        android:layout_marginTop="12dp"
+        android:background="@drawable/input_shape" />
+
+    <Button
+        android:id="@+id/btnDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/date_button"
+        android:layout_marginTop="12dp" />
+
     <Button
         android:id="@+id/btnMeteo"
         android:layout_width="match_parent"
