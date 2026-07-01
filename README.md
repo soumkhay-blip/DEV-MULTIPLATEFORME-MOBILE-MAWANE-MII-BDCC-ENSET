@@ -8,6 +8,7 @@ Pr. **MAWANE**, Master MII-BDCC, ENSET — Université Hassan II Casablanca.
 | Séance | Technologie | Description |
 |--------|-------------|-------------|
 | Séance 1 | Android natif / Java | Calcul de l'Indice de Masse Corporelle (IMC) avec catégorie et image. |
+| Seance 2 - Mobile Natif Partie 2 - Evenements et Meteo | Android natif / Kotlin | Gestion des événements (Click, LongClick, OnTouch, TextChange) + application Météo (API REST OpenWeather). |
 | Seance 5 - Flutter P3 Management des states | Flutter / Dart | Messagerie (contacts + messages) avec gestion d'état, backend json-server et authentification. |
 
 Chaque dossier contient son propre `README.md` détaillé.

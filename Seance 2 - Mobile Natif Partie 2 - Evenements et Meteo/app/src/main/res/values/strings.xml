@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mobile Natif P2</string>
+
+    <string name="titre_activite1">Activité 1 : Gestion des événements</string>
+    <string name="click_button">Click / Long Click</string>
+    <string name="simple_click">Simple click sur le bouton</string>
+    <string name="long_click">Long click sur le bouton</string>
+    <string name="hint_saisie">Saisissez du texte (TextChange)</string>
+    <string name="saisie">Saisie : %1$s</string>
+    <string name="zone_touch">Zone OnTouch</string>
+    <string name="resultat_vide">Résultat des événements…</string>
+    <string name="aller_meteo">Activité 2 : Météo</string>
+
+    <string name="hint_ville">Nom de la ville</string>
+    <string name="rechercher">Rechercher</string>
+    <string name="ville_vide">Veuillez saisir une ville.</string>
+    <string name="ville_introuvable">Ville introuvable.</string>
+    <string name="erreur_reseau">Erreur réseau. Vérifiez votre connexion.</string>
+    <string name="temp_min_max">Temp : %1$.1f°C min / %2$.1f°C max</string>
+    <string name="pression_humidite">Pression : %1$d hPa · Humidité : %2$d%%</string>
+</resources>
