@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Séance 2</string>
+    <string name="titre_accueil">Écran principal</string>
+    <string name="hint_nom">Entrez votre nom</string>
+    <string name="aller">Aller à l\'écran 2</string>
+    <string name="nom_vide">Veuillez saisir votre nom.</string>
+    <string name="bienvenue">Bienvenue %1$s sur le deuxième écran !</string>
+    <string name="retour">Retour</string>
+    <string name="choisir_langue">Choisir la langue :</string>
+    <string name="francais">Français</string>
+    <string name="arabe">العربية</string>
+</resources>

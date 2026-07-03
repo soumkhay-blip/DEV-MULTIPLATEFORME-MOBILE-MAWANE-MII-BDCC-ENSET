@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الحصة 2</string>
+    <string name="titre_accueil">الشاشة الرئيسية</string>
+    <string name="hint_nom">أدخل اسمك</string>
+    <string name="aller">الانتقال إلى الشاشة 2</string>
+    <string name="nom_vide">الرجاء إدخال اسمك.</string>
+    <string name="bienvenue">مرحباً %1$s في الشاشة الثانية !</string>
+    <string name="retour">رجوع</string>
+    <string name="choisir_langue">اختر اللغة :</string>
+    <string name="francais">Français</string>
+    <string name="arabe">العربية</string>
+</resources>
