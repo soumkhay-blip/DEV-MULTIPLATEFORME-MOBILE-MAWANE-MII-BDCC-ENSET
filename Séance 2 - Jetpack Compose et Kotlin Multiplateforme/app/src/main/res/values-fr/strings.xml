@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">TP Compose</string>
+
+    <string name="home_title">Accueil</string>
+    <string name="home_click_demo">Démo Click / LongClick</string>
+    <string name="home_login_demo">Démo Login / Navigation</string>
+
+    <string name="click_button">Cliquer</string>
+    <string name="click_text">Click et Long Click</string>
+    <string name="click_result">Clic simple sur le bouton</string>
+    <string name="longclick_result">Clic long sur le bouton</string>
+
+    <string name="login_title">Informations du compte</string>
+    <string name="username_label">Nom d\'utilisateur :</string>
+    <string name="password_label">Mot de passe :</string>
+    <string name="signin">S\'identifier</string>
+    <string name="fillin">Veuillez remplir tous les champs obligatoires !</string>
+
+    <string name="second_title">Bienvenue</string>
+    <string name="back">Retour</string>
+</resources>

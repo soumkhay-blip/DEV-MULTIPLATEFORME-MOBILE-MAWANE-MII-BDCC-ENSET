@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">TP Compose</string>
+
+    <string name="home_title">الرئيسية</string>
+    <string name="home_click_demo">عرض Click / LongClick</string>
+    <string name="home_login_demo">عرض تسجيل الدخول / التنقل</string>
+
+    <string name="click_button">اضغط هنا</string>
+    <string name="click_text">Click و Long Click</string>
+    <string name="click_result">ضغطة بسيطة على الزر</string>
+    <string name="longclick_result">ضغطة طويلة على الزر</string>
+
+    <string name="login_title">معلومات الحساب</string>
+    <string name="username_label">اسم المستخدم :</string>
+    <string name="password_label">كلمة المرور :</string>
+    <string name="signin">تسجيل الدخول</string>
+    <string name="fillin">يرجى ملء جميع الحقول المطلوبة !</string>
+
+    <string name="second_title">مرحبا</string>
+    <string name="back">رجوع</string>
+</resources>
